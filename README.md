@@ -1,1 +1,2 @@
-# seleniumlab
+# Лабораторная работа по изучению Selenium WebDriver.
+Код содержит тесты на примере Хабра и Mail.ru
